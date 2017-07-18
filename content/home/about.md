@@ -12,31 +12,47 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Latino Politics",
+    "Immigration",
+    "Social Identity",
+    "Race and Ethnicity",
+    "Political Behavior",
+    "Political Methodology"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "PhD in Political Science"
+  institution = "University of Washington"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MA in Political Science"
+  institution = "University of Washington"
+  year = 2013
+
+[[education.courses]]
+  course = "MA in Political Science"
+  institution = "University of Texas El Paso"
+  year = 2010
+  
+[[education.courses]]
+  course = "BBA in Economics"
+  institution = "University of Texas El Paso"
+  year = 2007
+
+[[education.courses]]
+  course = "BA in Phihlosophy"
+  institution = "University of Texas El Paso"
+  year = 2007
  
 +++
 
-# Biography
+# About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was born and raised in Durango, Mexico but I consider El Paso, TX my second home, a fronterizo by choice. I am an Assistant Professor of Government and Latino Studies at Cornell University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research investigates the formation and transformation of Latino identities as well as the political implications of these transformations. I also examine voter turnout, political participation and public opinion, especially among Latino immigrants. Other academic interests include issues related to Latinos and the Voting Rights Act, border issues and border research, and the politics of Mexico.
+
+I teach classes on immigration, race and ethnicity, latina/o politics, and social science methodology. For more detailed information please visit the CV and Research sections of this website. 
