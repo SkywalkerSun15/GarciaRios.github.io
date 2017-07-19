@@ -1,6 +1,6 @@
 
 
-baseurl = ""  # End your URL with a `/` trailing slash.
+baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Sergio I. Garcia-Rios"
 copyright = "&copy; 2017 Sergio I. Garcia-Rios"
 theme = "hugo-academic"
