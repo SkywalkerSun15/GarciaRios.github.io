@@ -77,8 +77,8 @@ Citizenship" The Russell Sage Foundation Journal of the Social Sciences (with Ma
 
 #### **Articles Under Review and Working Papers**
 
--- Is the Tea Party Splitting [the] Right Down the Middle?" with (with Christopher Parker,
-Kassra Oskooii, and Christopher Towler) [Under Review]
+-- Direct and Indirect Xenophobic Attacks: Unpacking
+Portfolios of Identity [Under Review]
 
 -- eiCompare: Comparing ecological inference estimates across EI and EI:RxC." (with Loren
 Collingwood, Kassra Oskooii, and Matt Barreto) [Under Review]
@@ -87,6 +87,8 @@ Collingwood, Kassra Oskooii, and Matt Barreto) [Under Review]
 
 -- Perennial and Situational: A Study of Immigrant Identity Formation and Transformation [Under Review]
 
+-- Is the Tea Party Splitting [the] Right Down the Middle?" with (with Christopher Parker,
+Kassra Oskooii, and Christopher Towler) [working paper]
 
 -- The DREAM Act Experiment: Exposing Covert Racism amongst White Liberals with Kassra Oskooii [Working Paper] 
 
