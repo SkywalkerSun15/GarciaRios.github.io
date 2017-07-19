@@ -1,5 +1,5 @@
 
-baseurl = "http://www.sergiogarciarios.com/"  # End your URL with a `/` trailing slash.
+#baseurl = "http://www.sergiogarciarios.com/"  # End your URL with a `/` trailing slash.
 title = "Sergio I. Garcia-Rios"
 copyright = "&copy; 2017 Sergio I. Garcia-Rios"
 theme = "hugo-academic"
@@ -125,7 +125,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "garcia.rios@cornell.edu"
+    link = "mailto:garcia.rios@cornell.edu"
 
   [[params.social]]
     icon = "twitter"
