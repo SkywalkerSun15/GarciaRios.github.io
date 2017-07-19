@@ -1,4 +1,4 @@
-
+baseurl = ""
 #baseurl = "http://www.sergiogarciarios.com/"  # End your URL with a `/` trailing slash.
 title = "Sergio I. Garcia-Rios"
 copyright = "&copy; 2017 Sergio I. Garcia-Rios"
@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Sergio I. Garcia-Rios"
+  name = "Sergio I. Garcia-Rios" 
   role = "Assitant Professor of Governemnt and Latino Studies"
   organization = "Cornell University"
   organization_url = ""
