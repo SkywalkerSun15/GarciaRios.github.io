@@ -16,7 +16,7 @@ weight = 50
 
 
 
-#### Download full CV [here](./CV/Garcia_RiosCV.pdf)
+#### Download full CV [here](http://garciarios.github.io/CV/Garcia_RiosCV.pdf)
 
 ***
 
