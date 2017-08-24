@@ -10,5 +10,17 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Office Hours</title>
+      <link>/office_hours/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>/office_hours/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Click on any time to  sign up for office hours or make an appointment.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://garciarios.youcanbook.me/?noframe=true&amp;skipHeaderFooter=true&#34; id=&#34;ycbmiframegarciarios&#34; style=&#34;width:100%;height:1000px;border:0px;background-color:transparent;&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;script&gt;window.addEventListener &amp;amp;&amp;amp; window.addEventListener(&amp;ldquo;message&amp;rdquo;, function(event){if (event.origin === &amp;ldquo;&lt;a href=&#34;https://garciarios.youcanbook.me&amp;quot;){document.getElementById(&amp;quot;ycbmiframegarciarios&amp;quot;).style.height&#34; target=&#34;_blank&#34;&gt;https://garciarios.youcanbook.me&amp;quot;){document.getElementById(&amp;quot;ycbmiframegarciarios&amp;quot;).style.height&lt;/a&gt; = event.data + &amp;ldquo;px&amp;rdquo;;}}, false);&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
