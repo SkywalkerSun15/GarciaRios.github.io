@@ -1,7 +1,5 @@
 +++
-date = "2016-04-20T12:00:00"
 draft = false
-tags = ["academic", "hugo"]
 title = "Office Hours"
 math = true
 summary = """
