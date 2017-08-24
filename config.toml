@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "garcia.rios@cornell.edu"
   address = "White Hall 308 - Cornell University. Ithaca, NY, 14850"
-  office_hours = "By appointment"
+  office_hours = "Bookme []"
   #phone = "888 888 88 88"
 
 
