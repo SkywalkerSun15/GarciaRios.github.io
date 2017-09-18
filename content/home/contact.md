@@ -18,5 +18,5 @@ autolink = true
 
 - <i class="fa fa-university fa-lg"></i> [308 White Hall - Cornell University. Ithaca, NY, 14850](https://www.cornell.edu/about/maps/?loc=White%20Hall) 
     + [Office Hours](office_hours/)
-- <i class="fa fa-envelope fa-lg"></i> [garcia.rios@cornell.edu](garcia.rios@cornell.edu)
+- <i class="fa fa-envelope fa-lg"></i> [mailto:garcia.rios@cornell.edu](garcia.rios@cornell.edu)
  
