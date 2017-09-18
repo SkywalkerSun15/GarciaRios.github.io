@@ -65,14 +65,15 @@ Citizenship" The Russell Sage Foundation Journal of the Social Sciences (with Ma
 
 - 2012  "El poder del Voto Latino en Estados Unidos en 2012" Foreign Affairs Latino América. 12:4 (Nov). (with Matt Barreto) - [Download]
 
-- 2012 "Economic Policy Matters: Incentives that Drive Mexicans Northward," with Kathy Staudt, in              Baumann, Mechthild/ Lorenz, Astrid/ Rosenow, Kerstin (eds.) Crossing and Controlling Borders -  Immigration Policies and their Impact on Migrants' Journeys. Germany: Leverkusen-Opladen et al.:  Budrich UniPress, 2011, pp. 205-226.
 
+- 2011  "The Politics and Policy of the Economic Determinants of Civic Participation on Latino Communities."    Journal of Public Administration and Management, 2011.   (with Stephen A. Nuño)  -[Download]
 
 #### **Edited Volume Book Chapters**
 
 
+- 2012 "Economic Policy Matters: Incentives that Drive Mexicans Northward," with Kathy Staudt, in  Baumann, Mechthild/ Lorenz, Astrid/ Rosenow, Kerstin (eds.) Crossing and Controlling Borders -  Immigration Policies and their Impact on Migrants' Journeys. Germany: Leverkusen-Opladen et al.:  Budrich UniPress, 2011, pp. 205-226.
 
-- 2011  "The Politics and Policy of the Economic Determinants of Civic Participation on Latino Communities."    Journal of Public Administration and Management, 2011.   (with Stephen A. Nuño)  -[Download]
+
 
 
 #### **Articles Under Review and Working Papers**

@@ -1,6 +1,7 @@
 
 
-baseurl = "/"  # End your URL with a `/` trailing slash.
+baseurl = "/"  
+# End your URL with a `/` trailing slash.
 title = "Sergio I. Garcia-Rios"
 copyright = "&copy; 2017 Sergio I. Garcia-Rios"
 theme = "hugo-academic"
@@ -26,11 +27,13 @@ defaultContentLanguageInSubdir = false
   role = "Assitant Professor of Governemnt and Latino Studies"
   organization = "Cornell University"
   organization_url = "http://government.cornell.edu/"
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "garcia.rios@cornell.edu"
-  address = "White Hall 308 - Cornell University. Ithaca, NY, 14850"
-  office_hours = "Bookme []"
+  gravatar = false  
+  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "portrait.jpg" 
+  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = ""
+  address = ""
+  office_hours = ""
   #phone = "888 888 88 88"
 
 
