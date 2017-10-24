@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Sergio I. Garcia-Rios" 
-  role = "Assitant Professor of Governemnt and Latino Studies"
+  role = "Assistant Professor of Government and Latino Studies"
   organization = "Cornell University"
   organization_url = "http://government.cornell.edu/"
   gravatar = false  
